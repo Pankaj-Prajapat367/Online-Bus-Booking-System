@@ -149,4 +149,12 @@ You can customize the app by editing:
 
 - Special thanks to **Dr. Mahesh Kumar** for his guidance  
 - Tkinter documentation  
-- Python community and tutorials  
+- Python community and tutorials
+
+---
+
+## 🙌 Author
+
+Created by **Pankaj Prajapat**  
+Follow me on [LinkedIn](www.linkedin.com/in/pankajprajapat367) | [GitHub]([https://github.com](https://github.com/Pankaj-Prajapat367))
+
